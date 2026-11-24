@@ -6,6 +6,6 @@ One folder per TIC. Each holds the plots linked from its Talk thread and the scr
 
 | TIC | Period | Sectors | Status |
 |---|---|---|---|
-| [257484419](TIC257484419) | 18.0567 d | 3, 30, 97 | [Talk thread](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4188347) |
+| [257484419](TIC257484419) | 18.0567 d | 3, 30, 97, 108 | [Talk thread](https://www.zooniverse.org/projects/nora-dot-eisner/planet-hunters-tess/talk/2110/4188347) |
 
 These are candidates, not confirmed planets.
